@@ -1,1 +1,3 @@
 # fruit-management-system
+fmdb基于Python的tkinter.tkk设计的含GUI界面的数据库系统
+fmdb1是初版进行调试的系统，采用原始命令行进行输入输出
